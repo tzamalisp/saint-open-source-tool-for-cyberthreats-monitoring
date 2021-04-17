@@ -1,5 +1,9 @@
 # SAINT - Open Source Tool for the Monitoring of Cybersecurity threats activity
 
+<p align="center">
+    <img src="images_logos/saint_logo_color.png" alt="SAINT Logo" width="200" />
+</p>
+
 Useful information:
 * [SAINT project home page](https://project-saint.eu/)
 * [SAINT EU page](https://cordis.europa.eu/project/id/740829)
@@ -8,10 +12,6 @@ Useful information:
 * Project duration: 1 May 2017 - 30 April 2019
 * Call for proposal: H2020-DS-SC7-2016
 * Funding Scheme: RIA - Research and Innovation action
-
-<p align="center">
-    <img src="images_logos/saint_logo_color.png" alt="SAINT Logo" width="150" />
-</p>
 
 This repository contains the coding work that was developed by 
 [Pantelis Tzamalis](https://scholar.google.gr/citations?hl=en&user=zo_G-TIAAAAJ) under the supervision of 
