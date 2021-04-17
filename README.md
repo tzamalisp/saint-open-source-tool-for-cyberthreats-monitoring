@@ -2,7 +2,7 @@
 
 [SAINT project home page](https://project-saint.eu/)
 
-![SAINT](images_logos/saint_logo_color.png =150x)
+<img src="images_logos/saint_logo_color.png" alt="SAINT Logo" width="150" />
 
 This repository contains the coding work that was developed by 
 [Pantelis Tzamalis](https://scholar.google.gr/citations?hl=en&user=zo_G-TIAAAAJ) under the supervision of 
@@ -13,5 +13,5 @@ This repository contains the coding work that was developed by
 This work was part of the project and constitutes the main IT development core of the SAINT project where CTI was 
 the lead partner of this task.
 
-![CTI](images_logos/cti_logo.jpg =100x)
-![EU flag](images_logos/eu_flag_yellow_low.jpg =100x)
+<img src="images_logos/cti.jpg" alt="CTI Logo" width="100" />
+<img src="images_logos/eu_flag_yellow_low.jpg" alt="EU Logo" width="100" />
