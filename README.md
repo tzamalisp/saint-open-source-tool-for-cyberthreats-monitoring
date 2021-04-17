@@ -22,7 +22,7 @@ This repository contains the coding work that was developed by
 This work was part of the project and constitutes the main IT development core of the SAINT project where CTI was 
 the lead partner of this task.
 
-## Objective
+## Project Objectives
 
 SAINT proposes to analyse and identify incentives to improve levels of collaboration between cooperative 
 and regulatory approaches to information sharing. Analysis of the ecosystems of cybercriminal activity, 
